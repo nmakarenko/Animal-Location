@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Animal Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Animals</string>
+    <string name="title_activity_maps">Location</string>
+    <string name="title_activity_new_animal">Add Animal</string>
+
+    <string name="has_milk">Has milk</string>
+    <string name="has_not_milk">No milk</string>
+    <string name="can_fly">Can fly</string>
+    <string name="can_not_fly">Can\'t fly</string>
+    <string name="no_data">No data</string>
+
+    <string name="db_type_bird">BIRD</string>
+    <string name="db_type_mammal">MAMMAL</string>
+
+    <string name="type_bird">Bird</string>
+    <string name="type_mammal">Mammal</string>
+
+    <string name="location">Location</string>
+    <string name="add_location">Add location</string>
+    <string name="change_location">Change location</string>
+
+    <string name="toast_choose_location">Please, choose the location.</string>
+    <string name="toast_enter_name">Please, enter name.</string>
+    <string name="enter_name">Enter name</string>
+</resources>
